@@ -1,4 +1,4 @@
-temperatura = 70
+temperatura = int(input("Inserta la temperatura deseada: "))
 if temperatura >=80:
     print ("Motor apagado")
     print ("Temperatura muy alta")
